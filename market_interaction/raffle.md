@@ -45,6 +45,8 @@ The raffle ends with a total of 120,000 Reef collected.
 A service fee of 2,400 Reef (120,000 Reef * 2.5%) will be charged and you receive 117,600 Reef.
 ```
 
+> :warning: In the case of an NFT with royalties, they will also be substracted from the gross amount. **[See more about royaties](./../nfts/royalties.md#royalties)**.
+
 If the raffle ends without any participants, all the copies of the NFT will be again available for you.
 
 ## How it works for a participant

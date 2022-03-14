@@ -46,6 +46,8 @@ The auction ends and the highest bid for the lot is 120,000 Reef.
 A service fee of 3,000 Reef (120,000 Reef * 2.5%) will be charged and you receive 117,000 Reef.
 ```
 
+> :warning: In the case of an NFT with royalties, they will also be substracted from the gross amount. **[See more about royaties](./../nfts/royalties.md#royalties)**.
+
 If the auction ends without bids, all the copies of the NFT will be again available for you.
 
 > See also **[Auction deadline](#auction-deadline)**

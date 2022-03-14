@@ -39,6 +39,8 @@ A user buys 4 copies of the NFT, for a total value of 40,000 Reef.
 A service fee of 1,000 Reef (40,000 Reef * 2.5%) will be charged and you receive 39,000 Reef.
 ```
 
+> :warning: In the case of an NFT with royalties, they will also be substracted from the gross amount. **[See more about royaties](./../nfts/royalties.md#royalties)**.
+
 The sale remains open until all the copies have been sold or you unlist the NFT sale.
 
 To unlist an NFT sale you can go to your **[profile's On Sale section](https://sqwid.app/profile?tab=On%20Sale)**, select the NFT, and click on the **Unlist** button.
