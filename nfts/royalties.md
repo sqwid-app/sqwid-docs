@@ -1,6 +1,6 @@
 > :arrow_left: [back to menu](../README.md)
 
-# Royalties
+# **Royalties**
 
 Sqwid NFTs follow the **[EIP-2981 for NFT royalties](https://eips.ethereum.org/EIPS/eip-2981)**. This EIP facilitates the payment of royalties to artists and creators for every NFT sale.
 
@@ -21,5 +21,9 @@ The seller will be receive a total of 87,750 Reef (90,000 - 2,250).
 ```
 
 Note that the service fee will however be applied over the royalties value if the seller and the royalties recipient is the same address.
+
+You can check the royalties value for a given NFT in its detail page.
+
+> TODO image
 
 > :arrow_left: [back to menu](../README.md)

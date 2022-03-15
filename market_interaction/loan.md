@@ -1,12 +1,14 @@
 > :arrow_left: [back to menu](../README.md)
 
-# Loan
+# **Loan**
 
-## TL;DR
+## **TL;DR**
 
 An NFT owner creates a loan proposal with a lot of one or more copies of the NFT as collateral, indicating the Reef amount of the loan, the duration of the loan and the Reef amount paid as interest to the lender. A user can fund the loan. If the borrower does not pay back the principal plus the interest offered, the lender gets ownership of all the copies of the NFT.
 
-## How it works for a borrower
+<br>
+
+## **How it works for a borrower**
 
 You can create a loan proposal using as collateral any NFT you have on your **[profile's Available section](https://sqwid.app/profile?tab=Available)**, selecting an NFT and clicking on the **Create Loan Proposal** button.
 
@@ -62,7 +64,9 @@ To unlist a loan proposal that has not yet been funded, you can go to your **[pr
   <img height="40" src="./images/loan_unlist_button.png">
 </p>
 
-## How it works for a lender
+<br>
+
+## **How it works for a lender**
 
 You can explore all **[Loan proposals](https://sqwid.app/explore/loans)**. If you open the detail page of an item, you can see the detail of the NFT and will find a **Fund** button.
 

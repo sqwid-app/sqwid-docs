@@ -1,12 +1,14 @@
 > :arrow_left: [back to menu](../README.md)
 
-# Raffle
+# **Raffle**
 
-## TL;DR
+## **TL;DR**
 
 An NFT owner creates a raffle for a lot of one or more copies of the NFT, with a certain duration. Users can participate in the raffle with the amount of Reef they want. At the end of the raffle, a winner is chosen among all the participants and gets all the copies of the NFT.
 
-## How it works for creator
+<br>
+
+## **How it works for creator**
 
 You can create a raffle for any NFT you have on your **[profile's Available section](https://sqwid.app/profile?tab=Available)**, selecting an NFT and clicking on the **Create Raffle** button.
 
@@ -49,7 +51,9 @@ A service fee of 2,400 Reef (120,000 Reef * 2.5%) will be charged and you receiv
 
 If the raffle ends without any participants, all the copies of the NFT will be again available for you.
 
-## How it works for a participant
+<br>
+
+## **How it works for a participant**
 
 You can explore all **[Raffles](https://sqwid.app/explore/raffles)**. If you open the detail page of an item, you can see the detail of the NFT and will find a **Participate** button.
 

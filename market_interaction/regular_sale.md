@@ -1,12 +1,14 @@
 > :arrow_left: [back to menu](../README.md)
 
-# Regular sale
+# **Regular sale**
 
-## TL;DR
+## **TL;DR**
 
 An NFT owner puts on sale one or more copies of the NFT for a fixed unit price. Users can buy any number of copies at the unit price.
 
-## How it works for a seller
+<br>
+
+## **How it works for a seller**
 
 You can put on sale any NFT you have on your **[profile's Available section](https://sqwid.app/profile?tab=Available)**, selecting an NFT and clicking on the **Put On sale** button.
 
@@ -27,7 +29,7 @@ You can also see the value of the **service fee**. This is the amount that will 
 
 When you put an NFT on sale you don't pay any fee (you just pay the gas for the transaction).
 
-If a user buys one or more copies of your NFT, a service fee will be subtracted from the total amount you receive from the sale.
+If a user buys one or more copies of your NFT, a service fee will be subtracted from the total amount you receive for the sale.
 
 _E.g._
 
@@ -43,13 +45,17 @@ A service fee of 1,000 Reef (40,000 Reef * 2.5%) will be charged and you receive
 
 The sale remains open until all the copies have been sold or you unlist the NFT sale.
 
-To unlist an NFT sale you can go to your **[profile's On Sale section](https://sqwid.app/profile?tab=On%20Sale)**, select the NFT, and click on the **Unlist** button.
+You can see all the NFTs you have on sale from your **[profile's On Sale section](https://sqwid.app/profile?tab=On%20Sale)**.
+
+To unlist an NFT sale, select the NFT and click on the **Unlist** button.
 
 <p align="center">
   <img height="40" src="./images/sale_unlist_button.png">
 </p>
 
-## How it works for a buyer
+<br>
+
+## **How it works for a buyer**
 
 You can explore all the NFTs that are currently **[On Sale](https://sqwid.app/explore/sales)**. If you open the detail page of an item, you can see the detail of the NFT and will find a **Buy** button.
 
