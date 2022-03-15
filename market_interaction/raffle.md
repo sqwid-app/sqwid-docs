@@ -27,9 +27,9 @@ You can also see the value of the **service fee**. This is the amount that will 
   <img width="350" src="./images/raffle_create_modal.png">
 </p>
 
-When you create the raffle you don't pay any fee (you just pay the gas for the transaction). The raffle will start just after you create it.
+When you create the raffle, you don't pay any fee (you just pay the gas for the transaction). The raffle will start just after you create it.
 
-Once the raffle deadline is reached no more entries are allowed, and any user can execute the end of the raffle by clicking on the **Finalize** button.
+Once the raffle deadline is reached no more entries are allowed, and any user can execute the end of the raffle by clicking on the **Finalize** button of the raffle's detail page.
 
 <p align="center">
   <img height="40" src="./images/raffle_finalize_button.png">
@@ -44,10 +44,10 @@ You create a raffle for 10 copies of an NFT with a service fee of 2.5%.
 
 The raffle ends with a total of 120,000 Reef collected.
 
-A service fee of 2,400 Reef (120,000 Reef * 2.5%) will be charged and you receive 117,600 Reef.
+A service fee of 3,000 Reef (120,000 Reef * 2.5%) will be charged and you receive 117,000 Reef.
 ```
 
-> :warning: In the case of an NFT with royalties, they will also be substracted from the gross amount. **[See more about royaties](./../nfts/royalties.md#royalties)**.
+> :warning: In the case of an NFT with royalties, they will also be subtracted from the gross amount. **[See more about royalties](./../nfts/royalties.md#royalties)**.
 
 If the raffle ends without any participants, all the copies of the NFT will be again available for you.
 
@@ -55,13 +55,13 @@ If the raffle ends without any participants, all the copies of the NFT will be a
 
 ## **How it works for a participant**
 
-You can explore all **[Raffles](https://sqwid.app/explore/raffles)**. If you open the detail page of an item, you can see the detail of the NFT and will find a **Participate** button.
+You can explore all **[Raffles](https://sqwid.app/explore/raffles)**. If you open the detail page of an item, you can see the data of the NFT and will find a **Participate** button.
 
 <p align="center">
   <img height="40" src="./images/raffle_participate_button.png">
 </p>
 
-Clicking on the participate button will open a modal window, where you can the choose the amount you want to add to the raffle.
+Clicking on the participate button will open a modal window, where you can choose the amount you want to add to the raffle.
 
 <p align="center">
   <img width="350" src="./images/raffle_participate_modal.png">
@@ -69,12 +69,12 @@ Clicking on the participate button will open a modal window, where you can the c
 
 You can participate as many times as you want and the amount will be added to your total participation value.
 
-Once the raffle deadline is reached no more participations are allowed and any user can execute the end of the raffle by clicking on the **Finalize** button.
+Once the deadline is reached no more participations are allowed and any user can execute the end of the raffle by clicking on the **Finalize** button of the raffle's detail page.
 
 <p align="center">
   <img height="40" src="./images/auction_finalize_button.png">
 </p>
 
-This will choose a random address amoung all the participants of the raffle and send the NFT to the winner. The winner address is chosen proportionally weighted by the amount participated, that is, the more amount you participate with, the higher the chances of winning he raffle.
+This will choose a random address among all the participants of the raffle and send the NFT to the winner. The winner address is chosen randomly and proportionally weighted by the amount participated, that is, the more amount you participate with, the higher the chances of winning the raffle.
 
 > :arrow_left: [back to menu](../README.md)

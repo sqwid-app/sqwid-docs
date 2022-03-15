@@ -27,7 +27,7 @@ You can also see the value of the **service fee**. This is the amount that will 
   <img width="350" src="./images/sale_create_modal.png">
 </p>
 
-When you put an NFT on sale you don't pay any fee (you just pay the gas for the transaction).
+When you put an NFT on sale, you don't pay any fee (you just pay the gas for the transaction).
 
 If a user buys one or more copies of your NFT, a service fee will be subtracted from the total amount you receive for the sale.
 
@@ -41,7 +41,7 @@ A user buys 4 copies of the NFT, for a total value of 40,000 Reef.
 A service fee of 1,000 Reef (40,000 Reef * 2.5%) will be charged and you receive 39,000 Reef.
 ```
 
-> :warning: In the case of an NFT with royalties, they will also be substracted from the gross amount. **[See more about royaties](./../nfts/royalties.md#royalties)**.
+> :warning: In the case of an NFT with royalties, they will also be subtracted from the gross amount. **[See more about royalties](./../nfts/royalties.md#royalties)**.
 
 The sale remains open until all the copies have been sold or you unlist the NFT sale.
 
@@ -57,7 +57,7 @@ To unlist an NFT sale, select the NFT and click on the **Unlist** button.
 
 ## **How it works for a buyer**
 
-You can explore all the NFTs that are currently **[On Sale](https://sqwid.app/explore/sales)**. If you open the detail page of an item, you can see the detail of the NFT and will find a **Buy** button.
+You can explore all the NFTs that are currently **[On Sale](https://sqwid.app/explore/sales)**. If you open the detail page of an item, you can see the data of the NFT and will find a **Buy** button.
 
 <p align="center">
   <img height="40" src="./images/sale_buy_button.png">
