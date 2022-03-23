@@ -30,8 +30,6 @@ You can also see the value of the **service fee**. This is the amount that will 
 
 When you create the auction, you don't pay any fee (you just pay the gas for the transaction). The auction will start just after you create it.
 
-You can see all the NFTs you have on auction from your **[profile's Auctions section](https://sqwid.app/profile?tab=Auctions)**.
-
 Once the deadline is reached, no more bids are allowed, and any user can execute the end of the auction by clicking on the **Finalize** button of the auction's detail page.
 
 <p align="center">
@@ -103,9 +101,11 @@ This will produce two outcomes:
 -   The highest bidder will receive the NFT.
 -   The rest of the bidders will increment their withdrawable balance for the total amount bid.
 
-You can withdraw the balance you have in the contract by...
+You can withdraw the balance you have in the contract accessing your profile's card.
 
-> TODO
+<p align="center">
+  <img width="250" src="./images/withdraw.png">
+</p>
 
 > See also **[Auction deadline](#auction-deadline)**
 
