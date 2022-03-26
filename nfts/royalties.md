@@ -1,4 +1,4 @@
-> :arrow_left: [back to menu](../README.md)
+> :arrow_left: [back to menu](../README.md#sqwid-marketplace-user-guide)
 
 # **Royalties**
 
@@ -24,4 +24,4 @@ Note that the service fee will however be applied over the royalties value if th
 
 You can check the royalties value for a given NFT in its detail page.
 
-> :arrow_left: [back to menu](../README.md)
+> :arrow_left: [back to menu](../README.md#sqwid-marketplace-user-guide)

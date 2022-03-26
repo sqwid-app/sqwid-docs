@@ -1,4 +1,4 @@
-> :arrow_left: [back to menu](../README.md)
+> :arrow_left: [back to menu](../README.md#sqwid-marketplace-user-guide)
 
 # **Regular sale**
 
@@ -13,7 +13,7 @@ An NFT owner puts on sale one or more copies of the NFT for a fixed unit price. 
 You can put on sale any NFT you have on your **[profile's Available section](https://sqwid.app/profile?tab=Available)**, selecting an NFT and clicking on the **Put On sale** button.
 
 <p align="center">
-  <img height="40" src="./images/sale_create_button.png">
+  <img height="40" src="../images/sale_create_button.png">
 </p>
 
 You will be prompted with a modal window that will ask you for two input data:
@@ -24,7 +24,7 @@ You will be prompted with a modal window that will ask you for two input data:
 You can also see the value of the **service fee**. This is the amount that will be charged if your NFT is sold.
 
 <p align="center">
-  <img width="350" src="./images/sale_create_modal.png">
+  <img width="350" src="../images/sale_create_modal.png">
 </p>
 
 When you put an NFT on sale, you don't pay any fee (you just pay the gas for the transaction).
@@ -50,7 +50,7 @@ You can see all the NFTs you have on sale from your **[profile's On Sale section
 To unlist an NFT sale, select the NFT and click on the **Unlist** button.
 
 <p align="center">
-  <img height="40" src="./images/sale_unlist_button.png">
+  <img height="40" src="../images/sale_unlist_button.png">
 </p>
 
 <br>
@@ -60,13 +60,13 @@ To unlist an NFT sale, select the NFT and click on the **Unlist** button.
 You can explore all the NFTs that are currently **[On Sale](https://sqwid.app/explore/sales)**. If you open the detail page of an item, you can see the data of the NFT and will find a **Buy** button.
 
 <p align="center">
-  <img height="40" src="./images/sale_buy_button.png">
+  <img height="40" src="../images/sale_buy_button.png">
 </p>
 
 Clicking on the buy button will open a modal window, where you can choose the number of copies to buy. The total amount to be paid will be automatically updated in the confirmation button.
 
 <p align="center">
-  <img width="350" src="./images/sale_buy_modal.png">
+  <img width="350" src="../images/sale_buy_modal.png">
 </p>
 
-> :arrow_left: [back to menu](../README.md)
+> :arrow_left: [back to menu](../README.md#sqwid-marketplace-user-guide)
