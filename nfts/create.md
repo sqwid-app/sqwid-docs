@@ -9,7 +9,7 @@ The NFTs are created using the [SqwidERC1155 contract](https://reefscan.com/cont
 To create a new collectible navigate to the **[Create page](https://sqwid.app/create)**. There you will find the following form:
 
 <p align="center">
-  <img width="800" src="../images/create_form.png">
+  <img width="1000" src="../images/create_form.png">
 </p>
 
 -   **Upload file**: You can upload a file of up to 30Mb. This file will be stored in IPFS and its URI referenced in your NFT. Notice that the Sqwid NFT and marketplace contracts are fully decentralized, so any content is allowed. However, inappropriate content (like pornography or unauthorized use of intellectual property) will not be shown in the front end of the marketplace for compliance reasons.
@@ -31,6 +31,6 @@ After the NFT has been created, you will be redirected to the collectible detail
 
 In your profile, you can find all your **[collections](https://sqwid.app/profile?tab=Collections)** and **[available NFTs](https://sqwid.app/profile?tab=Available)**.
 
-> Lear more about how to create **[sales](../market_interaction/regular_sale.md#how-it-works-for-a-seller)**, **[auctions](../market_interaction/auction.md#how-it-works-for-seller)**, **[raffles](../market_interaction/raffle.md#how-it-works-for-creator)** and **[loan proposals](../market_interaction/loan.md#how-it-works-for-borrower)**.
+> Learn more about how to create **[sales](../market_interaction/regular_sale.md#regular-sale)**, **[auctions](../market_interaction/auction.md#auction)**, **[raffles](../market_interaction/raffle.md#raffle)** and **[loan proposals](../market_interaction/loan.md#loan)**.
 
 > :arrow_left: [back to menu](../README.md#sqwid-marketplace-user-guide)
