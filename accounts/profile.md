@@ -2,7 +2,7 @@
 
 # **Profile**
 
-Profile pages are public, but only the owner of the account can edit it. To access your profile you have to [sign in](./accounts/sign_in.md#sign-in) with a Reef account, and click on the **View Profile** button.
+Profile pages are public, but only the owner of the account can edit it. To access your profile you have to [sign in](../accounts/sign_in.md#sign-in) with a Reef account, and click on the **View Profile** button.
 
 <p align="center">
   <img width="250" src="../images/view_profile_button.png">
