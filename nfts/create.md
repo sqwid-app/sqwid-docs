@@ -1,6 +1,6 @@
 > :arrow_left: [back to menu](../README.md#sqwid-marketplace-user-guide)
 
-# **Create Collectible**
+# **Create User Account**
 
 You can mint new NFTs and add them to a collection paying just for the gas fees associated with the transactions. The Sqwid marketplace does not charge any service fee.
 

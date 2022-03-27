@@ -18,7 +18,7 @@ You can put on sale any NFT you have on your **[profile's Available section](htt
 
 You will be prompted with a modal window that will ask you for three input data:
 
--   **Minimum bid**: The minimum value accepted for a bid, in Reef.
+-   **Minimum bid**: The minimum value accepted for a bid, in REEF.
 -   **Number of Copies**: Number of copies of the NFT that will be put for auction. Note that the users will bid for all the copies as a lot, and not for individual copies.
 -   **Number of Minutes**: The duration of the auction, in minutes.
 
@@ -41,11 +41,11 @@ If the minimum bid has been filled, a service fee will be subtracted from the to
 _E.g._
 
 ```
-You create an auction for 10 copies of an NFT with a minimum bid of 50,000 Reef and a service fee of 2.5%.
+You create an auction for 10 copies of an NFT with a minimum bid of 50,000 REEF and a service fee of 2.5%.
 
-The auction ends and the highest bid for the lot is 120,000 Reef.
+The auction ends and the highest bid for the lot is 120,000 REEF.
 
-A service fee of 3,000 Reef (120,000 Reef * 2.5%) will be charged and you receive 117,000 Reef.
+A service fee of 3,000 REEF (120,000 REEF * 2.5%) will be charged and you receive 117,000 REEF.
 ```
 
 > :warning: In the case of an NFT with royalties, they will also be subtracted from the gross amount. **[See more about royalties](./../nfts/royalties.md#royalties)**.
@@ -81,13 +81,13 @@ If you are the highest bidder, you can add to your bid any amount you want. If y
 _E.g._
 
 ```
-You are the highest bidder of an item with a bid of 10,000 Reef.
+You are the highest bidder of an item with a bid of 10,000 REEF.
 
-Another user outbids you with a bid of 15,000 Reef.
+Another user outbids you with a bid of 15,000 REEF.
 
-If you want to increase your current bid, you have to do it for an amount higher than 5,000 Reef (15,000 - 10,000).
+If you want to increase your current bid, you have to do it for an amount higher than 5,000 REEF (15,000 - 10,000).
 
-You decide to increase your original bid by 6,000 Reef and turn into the new highest bidder for a value of 16,000 Reef.
+You decide to increase your original bid by 6,000 REEF and turn into the new highest bidder for a value of 16,000 REEF.
 ```
 
 Once the deadline is reached, no more bids are allowed and any user can execute the end of the auction by clicking on the **Finalize** button of the auction's detail page.

@@ -4,7 +4,7 @@
 
 ## **TL;DR**
 
-An NFT owner creates a raffle for a lot of one or more copies of the NFT, with a certain duration. Users can participate in the raffle with the amount of Reef they want. At the end of the raffle, a winner is chosen among all the participants and gets all the copies of the NFT.
+An NFT owner creates a raffle for a lot of one or more copies of the NFT, with a certain duration. Users can participate in the raffle with the amount of REEF they want. At the end of the raffle, a winner is chosen among all the participants and gets all the copies of the NFT.
 
 <br>
 
@@ -42,9 +42,9 @@ _E.g._
 ```
 You create a raffle for 10 copies of an NFT with a service fee of 2.5%.
 
-The raffle ends with a total of 120,000 Reef collected.
+The raffle ends with a total of 120,000 REEF collected.
 
-A service fee of 3,000 Reef (120,000 Reef * 2.5%) will be charged and you receive 117,000 Reef.
+A service fee of 3,000 REEF (120,000 REEF * 2.5%) will be charged and you receive 117,000 REEF.
 ```
 
 > :warning: In the case of an NFT with royalties, they will also be subtracted from the gross amount. **[See more about royalties](./../nfts/royalties.md#royalties)**.

@@ -4,7 +4,7 @@
 
 ## **TL;DR**
 
-An NFT owner creates a loan proposal with a lot of one or more copies of the NFT as collateral, indicating the Reef amount of the loan, the duration of the loan, and the Reef amount paid as interest to the lender. Any user can fund the loan. If the borrower does not pay back the principal plus the interests by the deadline, the lender gets ownership of all the copies of the NFT.
+An NFT owner creates a loan proposal with a lot of one or more copies of the NFT as collateral, indicating the REEF amount of the loan, the duration of the loan, and the REEF amount paid as interest to the lender. Any user can fund the loan. If the borrower does not pay back the principal plus the interests by the deadline, the lender gets ownership of all the copies of the NFT.
 
 <br>
 
@@ -18,8 +18,8 @@ You can create a loan proposal using as collateral any NFT you have on your **[p
 
 You will be prompted with a modal window that will ask you for four input data:
 
--   **Loan Amount**: Amount you want to borrow, in Reef.
--   **Payback Fee**: Amount to be paid to the lender as interests for the loan, in Reef.
+-   **Loan Amount**: Amount you want to borrow, in REEF.
+-   **Payback Fee**: Amount to be paid to the lender as interests for the loan, in REEF.
 -   **Number of Copies**: Number of copies of the NFT that offered as collateral for the loan.
 -   **Duration**: The duration of the loan, in minutes.
 
@@ -37,19 +37,19 @@ _E.g._
 
 ```
 You create a loan proposal with the following parameters:
- - Loan amount: 100,000 Reef
- - Payback fee: 2,000 Reef
+ - Loan amount: 100,000 REEF
+ - Payback fee: 2,000 REEF
  - Number of copies: 10
  - Duration: 30 days
  - Service fee: 2.5%
 
 The loan is funded.
 
-A service fee of 2,500 Reef (100,000 Reef * 2.5%) will be charged and you receive 97,500 Reef.
+A service fee of 2,500 REEF (100,000 REEF * 2.5%) will be charged and you receive 97,500 REEF.
 
 The duration of 30 days to pay the loan back starts counting.
 
-You will have to pay back 102,000 Reef (100,000 as principal plus 2,000 as interests) to the lender before the deadline of the loan is reached.
+You will have to pay back 102,000 REEF (100,000 as principal plus 2,000 as interests) to the lender before the deadline of the loan is reached.
 ```
 
 If you do not pay back the principal plus the payback fee (interests) to the lender by the deadline of the loan, the lender will be able to liquidate the loan by taking ownership of the NFT put as collateral.

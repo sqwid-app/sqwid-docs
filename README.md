@@ -3,11 +3,23 @@
 	<h1 align="center">Sqwid marketplace user guide</h1>
 </p>
 
+<br>
+
+# First steps
+
+## **[Sign in](./accounts/sign_in.md#sign-in)**
+
+## **[Profile](./accounts/profile.md#profile)**
+
+<br>
+
 # Collectibles
 
 ## **[Create collectible](./nfts/create.md#create-collectible)**
 
 ## **[Royalties](./nfts/royalties.md#royalties)**
+
+<br>
 
 # Market interactions
 

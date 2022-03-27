@@ -18,7 +18,7 @@ You can put on sale any NFT you have on your **[profile's Available section](htt
 
 You will be prompted with a modal window that will ask you for two input data:
 
--   **Price**: The price per copy in Reef.
+-   **Price**: The price per copy in REEF.
 -   **Number of Copies**: Number of copies of the NFT that you want to put on sale.
 
 You can also see the value of the **service fee**. This is the amount that will be charged if your NFT is sold.
@@ -34,11 +34,11 @@ If a user buys one or more copies of your NFT, a service fee will be subtracted 
 _E.g._
 
 ```
-You put on sale 10 copies of an NFT at a unit price of 10,000 Reef and a service fee of 2.5%.
+You put on sale 10 copies of an NFT at a unit price of 10,000 REEF and a service fee of 2.5%.
 
-A user buys 4 copies of the NFT, for a total value of 40,000 Reef.
+A user buys 4 copies of the NFT, for a total value of 40,000 REEF.
 
-A service fee of 1,000 Reef (40,000 Reef * 2.5%) will be charged and you receive 39,000 Reef.
+A service fee of 1,000 REEF (40,000 REEF * 2.5%) will be charged and you receive 39,000 REEF.
 ```
 
 > :warning: In the case of an NFT with royalties, they will also be subtracted from the gross amount. **[See more about royalties](./../nfts/royalties.md#royalties)**.
