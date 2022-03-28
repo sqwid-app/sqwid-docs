@@ -10,7 +10,7 @@ Profile pages are public, but only the owner of the account can edit it. To acce
 
 Your profile page will open and you will be able to navigate through the following tabs:
 
--   **Info**: From here you can edit your display name and description.
+-   **Info**: From here you can edit your display name and description and withdraw the balance you have available in the marketplace.
 -   **Collections**: Lists all the collections you have created.
 -   **Available**: Lists all your available collectibles, that is, all owned NFTs that are not currently on sale, auction, raffle, or loan.
 -   **On Sale**: Lists all your collectibles on sale.

@@ -27,7 +27,8 @@ Once you have signed in, you will find additional options in the connection pane
 
 -   **View Profile**: Opens your [profile page](../accounts/profile.md#profile).
 -   **Balance**: Shows you the balance of your current address.
--   **Withdraw**: In case your REEF balance is higher to zero, this option will be shown and you will be able to withdraw the REEF into your account. Your REEF balance will increment when you receive royalty fees or after an auction you bid on has ended and you have not been the highest bidder.
+-   **Available to withdraw**: In case your REEF balance is higher to zero, this option will be shown and you will be able to withdraw the REEF into your account. Your REEF balance will increment when you bid on has ended and you have not been the highest bidder.
+-   **Logout**: Closes session for the current account.
 
 <p align="center">
   <img width="250" src="../images/signed_in.png">
