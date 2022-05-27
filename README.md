@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="Logo" src="./images/logo.png" width="128"/>
+	<img alt="Logo" src="./images/logo_new.png" width="128"/>
 	<h1 align="center">Sqwid marketplace user guide</h1>
 </p>
 
