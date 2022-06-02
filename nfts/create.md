@@ -15,7 +15,8 @@ To create a new collectible navigate to the **[Create page](https://sqwid.app/cr
 -   **Upload file**: You can upload a file of up to 30Mb. This file will be stored in IPFS and its URI referenced in your NFT. Notice that the Sqwid NFT and marketplace contracts are fully decentralized, so any content is allowed. However, inappropriate content (like pornography or unauthorized use of intellectual property) will not be shown in the front end of the marketplace for compliance reasons.
 -   **Title**: The name of your NFT.
 -   **Description**: A description for your NFT. Optional field.
--   **Royalties**: Value of the royalties in percentage. Can range from 0 to 50. The default value is 0. You can read more about how royalties work [here](./royalties.md#royalties).
+-   **Royalties receiver**: Address of the royalties receiver. If no address is specified, the active address will be used. Clicking on the "+" button will open a popup to create a payment splitter contract though the **Splitz** dAPP.
+-   **Royalties value**: Value of the royalties in percentage. Can range from 0 to 50. The default value is 0. You can read more about how royalties work [here](./royalties.md#royalties).
 -   **Number of Copies**: How many copies of your NFT you want to mint. The default value is 1.
 -   **Collection**: You can assign the NFT to one of your existing collections. You can also create a new collection from here. If the NFT is not assigned to any collection it will be included in the Sqwid collection.
 -   **Properties**: An optional list of key-value pairs for the properties of your NFT.
