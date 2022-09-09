@@ -17,6 +17,10 @@
 
 ## **[Create collectible](./nfts/create.md#create-collectible)**
 
+<!--
+## **[Create bulk collectibles](./nfts/create_bulk.md#create-bulk-collectibles)**
+-->
+
 ## **[Royalties](./nfts/royalties.md#royalties)**
 
 <br>
